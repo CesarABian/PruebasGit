@@ -1,7 +1,1 @@
-# PruebasGit
-xcvd
-sdfsdfd
-
-kjsdkjsa
-
-hjvjvjvjv
+# PruebasGit (README2)
